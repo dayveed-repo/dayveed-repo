@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Ebireni David
-- 👀 I’m interested web development/mobile dev
-- 🌱 I have skills in Html, css, javascript, react and an intermidiate knowledge in react native 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>👋Hi there, I Am Ebireni David</h1>
 
 <!---
 dayveed-repo/dayveed-repo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
