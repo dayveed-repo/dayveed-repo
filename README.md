@@ -1,5 +1,7 @@
-# 👋Hi there, I Am Ebireni David
-<img src="https://github-readme-stats.vercel.app/api?username=dayveed-repo&show_icons=true&theme=radical" /> 
+# 👋Hi there, I'm Ebireni David
+
+I'm a full-stack developer currently chasing a B.S.C degree in computer science. At the moment I work with at **Auxilium Youth Tribe**, where I work with a senior developer to build and add features to their application. I love writing clean codes that solves problems. I am an avid learner and I am open to learning new and exciting concepts and technologies. I also spend sometime writing smart contracts and studying the blockchain technology as a whole.  
+
 
 ### Programming Languages i work with: ### 
 
@@ -11,8 +13,10 @@
 ### version Control tools ###
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-### Contact me ###
+### Wanna talk? ###
 ***
+*You can reach me through any of the socials below:*
+
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ebireni-david)
 - [<img src="https://img.shields.io/badge/dayveed_xx-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/dayveed_xx)
 - **email** @ ebirenidavid@gmail.com
