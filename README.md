@@ -1,6 +1,6 @@
 # 👋Hi there, I'm Ebireni David
 
-I'm a full-stack developer currently chasing a B.S.C degree in computer science. At the moment I work with at **Auxilium Youth Tribe**, where I work with a senior developer to build and add features to their application. I love writing clean codes that solves problems. I am an avid learner and I am open to learning new and exciting concepts and technologies. I also spend sometime writing smart contracts and studying the blockchain technology as a whole.  
+I'm a full-stack developer currently chasing a B.S.C degree in computer science. At the moment I work with at **Karlytics**, where I help build and add features to their application. I love writing clean codes that solves problems. I am an avid learner and I am open to learning new and exciting concepts and technologies. I also spend sometime writing smart contracts and studying the blockchain technology as a whole.  
 
 
 ### Programming Languages i work with: ### 
